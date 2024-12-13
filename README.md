@@ -1,4 +1,4 @@
-# **AI-Powered Travel Recommendation Application** 🌍✈️  
+# **AI-Venture Travel Recommendation Application** 🌍✈️  
 
 Welcome to our **AI-Powered Travel Recommendation Application**, combining advanced AI technologies for personalized travel recommendations and seamless planning.
 
