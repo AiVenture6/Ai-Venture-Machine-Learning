@@ -1,4 +1,4 @@
-# AI-Based Travel Application - Visual Search Spot Feature 🌍🖼️  
+# Ai-Venture - Visual Search Spot Feature 🌍🖼️  
 
 Welcome to the **AI-Based Travel Application**! This innovative project brings advanced AI technology to enhance your travel experiences. The focus of this application is the **Visual Search Spot** feature, which allows users to upload an image and receive travel destination recommendations with similar vibes.  
 
