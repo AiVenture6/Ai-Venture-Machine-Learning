@@ -58,4 +58,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions or inquiries, feel free to contact [Your Name](mailto:your.email@example.com).
+For questions or inquiries, feel free to contact Amalina Shabrina.
